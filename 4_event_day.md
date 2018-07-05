@@ -5,7 +5,7 @@
 * Model key phrases people can use to ask pronouns. “How do you spell your name? “And what pronoun should I use with you?”
 * Don’t misgender speakers, hosts or presenters — it can be _very_ hard to retain professional composure after being misgendered. Practice if you are announcing and having a hard time getting it right
 * Clearly provide a code of conduct and encourage people to read it, and understand the repercussions of violating it
-* Consider implementing Social Rules that help [manage microaggressions](https://www.recurse.com/manual). (Scroll down to “Social Rules”)
+* Consider implementing Social Rules that help [manage microaggressions](https://www.recurse.com/manual#sub-sec-social-rules).
 * Keep in mind that a person’s current physical presentation, gender, pronouns etc may not match their ID.
 * Be ready & informed to deal with critical pushback. Again, practice can help — talk to your co-organizers, and make sure they have answers to common questions
 * Label T-Shirts as “Straight Cut” and “Fitted Cut” instead of “Women’s” and “Men’s”. Some men are curvy. Some women are not.
