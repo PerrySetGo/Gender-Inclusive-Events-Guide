@@ -4,7 +4,7 @@
 * Everyone writes their pronouns, everyone should respect pronouns
 * Model key phrases people can use to ask pronouns. “How do you spell your name? “And what pronoun should I use with you?”
 * Don’t misgender speakers, hosts or presenters — it can be _very_ hard to retain professional composure after being misgendered. Practice if you are announcing and having a hard time getting it right
-* Clearly provide a code of conduct and encourage people to read it, and understand the repercussions of violating it
+* Clearly provide a code of conduct, encourage people to read it, and make sure they understand the repercussions of violating it
 * Consider implementing Social Rules that help [manage microaggressions](https://www.recurse.com/manual). (Scroll down to “Social Rules”)
 * Keep in mind that a person’s current physical presentation, gender, pronouns etc may not match their ID.
 * Be ready & informed to deal with critical pushback. Again, practice can help — talk to your co-organizers, and make sure they have answers to common questions
