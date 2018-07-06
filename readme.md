@@ -4,10 +4,10 @@
 
 ## Welcome! I'm so glad you are here!
 
-This repo is an abbreviated version of the article I  posted in June of 2018 on Medium (you can read the full article [here](https://blog.usejournal.com/gender-inclusive-tech-events-a-hands-on-how-to-guide-ec93ee477035), which might be helpful). The goal for the article and this repo is to create a hands-on, actionable, guide that anyone can use.
+This repo is an abbreviated version of the [article I  posted in June of 2018 on Medium](https://blog.usejournal.com/gender-inclusive-tech-events-a-hands-on-how-to-guide-ec93ee477035)—it might be helpful to go and read that first. The goal for the article and this repo is to create a hands-on, actionable, guide that anyone can use.
 
 ### 1. Who this guide is for
-This guide is for people and companies planning and hosting events. The focus is on tech events, but it would be easy to adapt. This guide focuses specifically on gender inclusivity, but again, it would be easy to adapt. Please note that this isn't a terminology guide per se, but instead a framework for thinking about diversity and participation.
+This guide is for people and companies planning and hosting events. The focus is on tech events, specifically, gender inclusivity at tech events, but it would be easy to adapt. Please note that this isn't a terminology guide per se, but instead a framework for thinking about diversity and participation.
 
 ### 2. Basic Premise
 Before you dive into the hands-on part of this guide, let's get on the same page with some basic premises:
