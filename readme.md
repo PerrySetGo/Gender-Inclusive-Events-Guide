@@ -30,7 +30,7 @@ Before you dive into the hands-on part of this guide, let's get on the same page
 ### 4. How to contribute
  Fork the repo, add some content, and submit a pull request.
 
-  If you do not (yet) know how to do the above, you might [start here](https://www.youtube.com/watch?v=G1I3HF4YWEw).
+  If you do not (yet) know how to do the above, you might want to watch this video on [how to fork a GitHub repo and submit a pull request](https://www.youtube.com/watch?v=G1I3HF4YWEw).
 
 ### 5. Questions, concerns, suggestions, complaints
 This is a sensitive topic, as it deals with real issues real people face every day. It can be tough out there.
