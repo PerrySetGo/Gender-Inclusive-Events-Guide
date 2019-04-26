@@ -12,9 +12,9 @@ This guide is for people and companies planning and hosting events. The focus is
 ### 2. Basic Premise
 Before you dive into the hands-on part of this guide, let's get on the same page with some basic premises:
 
- * unconscious bias is real and **affects everybody**. As event planners, organizers, and participants, we may not notice something we are doing or neglecting to do carries a negative signal or prevents someone who has a different gender, sexuality, race, class, educational background, ability, religion, body size, or other identity marker from participating in an activity.
+ * unconscious bias is real and **affects everybody**. As event planners, organizers, and participants, we may not notice something we are doing--or neglecting to do--carries a negative signal or prevents someone who has a different gender, sexuality, race, class, educational background, ability, religion, body size, or other identity marker from participating in an activity.
 
- * Ways in which we plan, market, and host events/activities may not feel inviting, safe, or even feasible to people from underrepresented minorities. We may not see the ways we aren't being inclusive due to unconscious bias. Attendees may not tell us that if they don't feel safe. They may not even attend, and therefore we might think they don't exist.
+ * Ways in which we plan, market, and host events/activities may not feel inviting, safe, or even accessible to people from underrepresented minorities. We may not see the ways we aren't being inclusive due to unconscious bias. Attendees may not tell us that if they don't feel safe. They may not even attend, and therefore we might think they don't exist.
 
  * Our events and groups are better when, in general, more people participate. They are made even better when people participate who are different from the majority of people represented in the group's current demographics.
 
