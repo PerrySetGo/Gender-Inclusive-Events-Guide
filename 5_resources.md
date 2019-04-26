@@ -13,3 +13,4 @@
 * Demisexuality Resource Center: [http://bit.ly/demisexuality-info]
 * Autistic Self-Advocacy Network: [http://bit.ly/autistic-self-advocacy-network]
 * Bisexuality 101: [http://bit.ly/bisexuality-101]
+* Ehlers-Danlos Syndrome/Hypermobility Spectrum Disorder 101: [http://bit.ly/EDS-HSD-101]
